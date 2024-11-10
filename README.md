@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DucktectiveCZ
-- 👀 I code in C++ and C#
-- 😄 Pronouns: du/ck
-- ⚡ Fun fact: ducks r best :D
+- 👀 I code in C++ and kinda C#
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ducks r cool
 
 <!---
 DucktectiveCZ/DucktectiveCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
